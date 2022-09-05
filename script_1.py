@@ -1,0 +1,1 @@
+print(f"The __name__ is: {__name__}")
